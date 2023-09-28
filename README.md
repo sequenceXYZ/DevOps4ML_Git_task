@@ -1,5 +1,5 @@
 # DevOps4ML_Git_task 🚀
-### Hands On task GIT
+### Hands On GIT task.
 
 ### 1. Install Git Bash.
 * install git \
