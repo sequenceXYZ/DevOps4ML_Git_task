@@ -2,7 +2,7 @@
 ### Hands On GIT task.
 
 #### 1. Install Git Bash.
-* install git \
+* install git  
 https://git-scm.com/downloads 
 * check the installed version  
 git --version  
